@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=compact&theme=dracula&hide_border=true)
 
 ## Streak & commits
-![](https://github-readme-streak-stats.herokuapp.com?user=cyivor&theme=dracula&hide_border=true&card_width=439&hide_total_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=cyivor&theme=dracula&hide_border=true&card_width=439)
 
 ---
 
