@@ -1,11 +1,8 @@
 # cyivor
-[x] developer
-
-[x] pentester
-
-[x] network analyst
-
-[x] 5-6 years experience with
+- [x] developer
+- [x] pentester
+- [x] network analyst
+- [x] 5-6 years experience with
   - [x] linux
   - [x] programming
   - [x] security analysis
