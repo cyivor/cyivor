@@ -1,3 +1,1 @@
-![stats](https://github-readme-stats.vercel.app/api?username=cyivor&show_icons=true&theme=dracula)
-
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=donut-vertical&theme=dracula)
