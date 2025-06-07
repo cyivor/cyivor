@@ -12,5 +12,6 @@
 > 
 > PurpleJabber is an encrypted XMPP client which allows for PGP encryption and custom plugins 
 
+---
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=donut-vertical&theme=dracula)
