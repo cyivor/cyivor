@@ -1,3 +1,20 @@
+# cyivor
+[x] developer
+[x] pentester
+[x] network analyst
+[x] 5-6 years experience with
+  - [x] linux
+  - [x] programming
+  - [x] security analysis
+
+## Top languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=compact&theme=dracula&hide_border=true)
+
+## Streak & commits
+![](https://github-readme-streak-stats.herokuapp.com?user=cyivor&theme=dracula&hide_border=true&card_width=439&hide_total_contributions=true)
+
+---
+
 # Projects
 
 ## Collective Open-Source Intelligence
@@ -11,7 +28,3 @@
 > [git@ivo/purplejabber](https://github.com/cyivor/purplejabber)
 > 
 > PurpleJabber is an encrypted XMPP client which allows for PGP encryption and custom plugins 
-
----
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=donut-vertical&theme=dracula)
