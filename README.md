@@ -2,10 +2,7 @@
 - [x] developer
 - [x] pentester
 - [x] network analyst
-- [x] 5-6 years experience with
-  - [x] linux
-  - [x] programming
-  - [x] security analysis
+- [x] 5-6 years experience with **programming, linux, and defensive & offensive security**
 
 ## Top languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=compact&theme=dracula&hide_border=true)
