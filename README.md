@@ -47,3 +47,10 @@
 > git@ivo/watcher
 > 
 > A program built in NASM x86 which monitors the speed of a binary's runtime and how fast it allocates memory
+
+
+## AURPM
+> [!IMPORTANT]
+> git@ivo/aurpm
+> 
+> An Arch User Repository (AUR) package manager
