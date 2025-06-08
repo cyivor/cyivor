@@ -8,7 +8,7 @@
 | Content      |
 | ------------- |
 | [Top languages](#Top-languages)  |
-| [Streak & commits](#Streak-&-commits)  |
+| [Streak & commits](#Streak--commits)  |
 | [Projects](#Projects)  |
 | [Project ideas](#Project-ideas)  |
 
