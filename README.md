@@ -7,11 +7,10 @@
 ## Table of contents
 | Content      |
 | ------------- |
-| [Top languages](##Top-languages)  |
-| [Streak & commits](##Streak-&-commits)  |
+| [Top languages](#Top-languages)  |
+| [Streak & commits](#Streak-&-commits)  |
 | [Projects](#Projects)  |
 | [Project ideas](#Project-ideas)  |
-| ------------- |
 
 
 ## Top languages
