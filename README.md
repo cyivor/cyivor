@@ -35,6 +35,12 @@
 > 
 > PurpleJabber is an encrypted XMPP client which allows for PGP encryption and custom plugins 
 
+## AURPM
+> [!IMPORTANT]
+> [git@ivo/aurpm](https://github.com/cyivor/aurpm)
+> 
+> An Arch User Repository (AUR) package manager
+
 # Project ideas
 ## ASMFetch
 > [!IMPORTANT]
@@ -47,10 +53,3 @@
 > git@ivo/watcher
 > 
 > A program built in NASM x86 which monitors the speed of a binary's runtime and how fast it allocates memory
-
-
-## AURPM
-> [!IMPORTANT]
-> git@ivo/aurpm
-> 
-> An Arch User Repository (AUR) package manager
