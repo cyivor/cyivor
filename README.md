@@ -8,17 +8,15 @@
 | Content      |
 | ------------- |
 | [Top languages](#Top-languages)  |
-| [Streak & commits](#Streak--commits)  |
+| [Streak & commits](#Profile-details)  |
 | [Projects](#Projects)  |
 | [Project ideas](#Project-ideas)  |
-
 
 ## Top languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyivor&layout=compact&theme=dracula&hide_border=true)
 
-## Streak & commits
-![](https://github-readme-streak-stats.herokuapp.com?user=cyivor&theme=dracula&hide_border=true&card_width=439)
-
+## Profile details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyivor&theme=dracula)
 ---
 
 # Projects
