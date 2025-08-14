@@ -25,13 +25,13 @@
 > [!IMPORTANT]
 > [git@ivo/purplejabber](https://github.com/cyivor/purplejabber)
 > 
-> PurpleJabber is an encrypted XMPP client which allows for PGP encryption and custom plugins 
+> PurpleJabber is an encrypted XMPP client which allows for PGP encryption and custom plugins -- may not work, can try to use it.
 
 ## AURPM
 > [!IMPORTANT]
 > [git@ivo/aurpm](https://github.com/cyivor/aurpm)
 > 
-> An Arch User Repository (AUR) package manager
+> An Arch User Repository (AUR) package manager -- does not work, do not try to use it.
 
 # Project ideas
 ## ASMFetch
